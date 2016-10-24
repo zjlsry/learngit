@@ -1,3 +1,8 @@
 alvintxt001
 alvintxt002
 alvintxt003
+hello java
+public static void main(String[] args)
+{
+System.out.println("Hello java");
+}
